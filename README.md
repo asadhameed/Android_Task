@@ -1,2 +1,2 @@
 Basic Android tasks
-Access the internal Storage (Read images and show in grid View)
+1. Access the internal Storage (Read images and show in grid View)
